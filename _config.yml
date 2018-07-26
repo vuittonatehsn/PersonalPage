@@ -1,1 +1,15 @@
 theme: jekyll-theme-cayman
+# Site settings
+title: Vuitton    				  	
+SEOTitle: Vuitton | Vuitton Blog    	 
+header-img: img/post-bg-rwd.jpg  	
+email: Vuittonatehsn@gmail.com	
+description: "You Blog"  			 
+keyword: "BY, BY Blog, qiubaiying, iOS, Apple, iPhone" 
+url: "https://qiubaiying.github.io"          
+baseurl: ""      
+
+# Sidebar settings
+sidebar: true                           
+sidebar-about-description: "大家好，我不知道為什麼我要建置靜態網站"
+sidebar-avatar:/img/avatar-by.JPG    
